@@ -1,0 +1,15 @@
+#div1
+{
+   text-align: center;
+   height: 40px; width:50%; background-color: lightsteelblue;
+   font-size: 30px; color:midnightblue;
+   font-stretch: expanded;
+   margin: 0 auto;
+   padding-bottom: 20px; 
+   
+}
+
+.table{
+    margin: 0 auto;
+} 
+
